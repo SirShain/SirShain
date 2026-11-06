@@ -7,10 +7,11 @@ Estudante de Ciência da Computação (UVA), em São Pedro da Aldeia, RJ.
 
 | Projeto | O que é | Estado |
 |---|---|---|
-| Prumo e Dia a Dia | Finanças pessoais: importa fatura e extrato em PDF, dados cifrados no aparelho | Em uso |
-| Vitrine | Gestão de vendas diretas: estoque, vendas e fiado, funciona offline | Em uso |
 | Marginália | Diário de mídia com isolamento de dados por RLS no Postgres | Em uso |
+| Vitrine | Gestão de vendas diretas: estoque, vendas e fiado, funciona offline | Em uso |
+| Prumo e Dia a Dia | Finanças pessoais: importa fatura e extrato em PDF, dados cifrados no aparelho | Em uso |
 | Ninho | Chat e chamadas de voz e vídeo com verificação em duas etapas | Em uso |
+| Códice | Cadernos digitais com visual próprio, busca, lixeira e histórico de versões | Em uso |
 
 ## Stack
 
