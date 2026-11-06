@@ -18,6 +18,7 @@ JavaScript, Node.js, React, Python, PostgreSQL (Supabase), SQLite, PWA, Playwrig
 
 ## Contato
 
+- Portfólio: https://tavernard.vercel.app
 - LinkedIn: https://www.linkedin.com/in/pedrotavernard/
 - Behance: https://www.behance.net/pedrotavernard2
 - E-mail: pedrotwb.oficial@gmail.com
