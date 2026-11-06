@@ -18,6 +18,6 @@ JavaScript, Node.js, React, Python, PostgreSQL (Supabase), SQLite, PWA, Playwrig
 
 ## Contato
 
-LinkedIn: https://www.linkedin.com/in/pedrotavernard/
-Behance: https://www.behance.net/pedrotavernard2
-E-mail: pedrotwb.oficial@gmail.com
+- LinkedIn: https://www.linkedin.com/in/pedrotavernard/
+- Behance: https://www.behance.net/pedrotavernard2
+- E-mail: pedrotwb.oficial@gmail.com
