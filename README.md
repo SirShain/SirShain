@@ -23,3 +23,4 @@ JavaScript, Node.js, React, Python, PostgreSQL (Supabase), SQLite, PWA, Playwrig
 - LinkedIn: https://www.linkedin.com/in/pedrotavernard/
 - Behance: https://www.behance.net/pedrotavernard2
 - E-mail: pedro@devtavernard.com.br
+- WhatsApp: [+55 22 99837-5193](https://wa.me/5522998375193)
